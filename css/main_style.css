@@ -1,0 +1,118 @@
+body{
+margin:0px;
+}
+
+html{
+height:100%;
+}
+
+img{
+border:0px;
+}
+
+a{
+text-decoration:none;
+}
+
+.hide{
+display:none;
+}
+
+.f_left{float:left;}
+.f_right{float:right;}
+
+.margin_v{margin:5px 0px;}
+.margin_t{margin-top:5px;}
+.margin_b{margin-bottom:5px;}
+.margin_l{margin-left:5px;}
+.margin_r{margin-right:5px;}
+.margin_auto{margin:auto;}
+
+.margin_t_15{margin-top:15px;}
+
+.mandatory{
+color:red;
+}
+
+.bold{
+font-weight:bold;
+color:black;
+}
+
+.link{
+cursor:pointer;
+}
+
+.overflow_hidden{overflow:hidden;}
+.overflow_auto{overflow:auto;}
+
+.align_center{text-align:center;}
+.align_left{text-align:left;}
+.align_right{text-align:right;}
+
+.hidden{display:none;}
+
+.bg_dark_grey{background:#191919;}
+.bg_white{background:white;}
+
+.bg_grid{background:url('../imagenes/fondos/grid.png');}
+
+.color_black{color:black;}
+.color_white{color:white;}
+.color_green{color:#39b54a;}
+.color_blue{color:#00aeef;}
+
+/*botones*/
+
+/*.button{
+font-size:16px;
+text-align:center;
+border:0px;
+float:left;
+padding:5px;
+border-radius:5px 5px 5px 5px;
+-moz-border-radius:5px 5px 5px 5px;
+-webkit-border-radius:5px 5px 5px 5px;
+font-family:'Roboto';
+}
+
+.button_reverse{
+font-size:16px;
+text-align:center;
+border:0px;
+float:right;
+padding:5px;
+border-radius:5px 5px 5px 5px;
+-moz-border-radius:5px 5px 5px 5px;
+-webkit-border-radius:5px 5px 5px 5px;
+font-family:'Roboto';
+}
+
+.button:hover, .button_reverse:hover{
+cursor:pointer;
+}
+
+.button_yellow{
+background:#ffcc00;
+border-bottom:3px solid #E6B800;
+color:#665200;
+}
+
+.button_yellow:hover{
+background:#E6B800;
+border-bottom:3px solid #CCA300;
+}
+
+.button_facebook{
+background:#4c66a4;
+border-bottom:3px solid #354773;
+color:white;
+}
+
+.button_facebook:hover{
+background:#354773;
+border-bottom:3px solid #263352;
+}*/
+
+
+
