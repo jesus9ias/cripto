@@ -1,5 +1,7 @@
 <?php
 
+date_default_timezone_set('America/Mexico_City');
+
 $key = $_POST['block_new_key'];
 
 $fecha = mktime();
