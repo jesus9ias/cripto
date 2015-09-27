@@ -1,5 +1,7 @@
 <?php
 
+date_default_timezone_set('America/Mexico_City');
+
 $file_deckey = $_FILES['file_deckey'];
 $file_to_dec = $_FILES['file_to_dec'];
 

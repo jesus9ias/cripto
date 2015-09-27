@@ -2,6 +2,8 @@
 
 //ini_set ('bcmath.scale',0);
 
+date_default_timezone_set('America/Mexico_City');
+
 $key_file = $_FILES['file_key'];
 $text_file = $_FILES['file_to_enc'];
 
